@@ -1,4 +1,4 @@
-# Lucy
+# Lucy [![Build Status](https://travis-ci.org/MattivdWeem/Lucy.svg?branch=master)](https://travis-ci.org/MattivdWeem/Lucy)
 Ruby version of Lucy
 
 ## About Lucy
