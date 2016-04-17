@@ -1,0 +1,9 @@
+---
+language: ruby
+sudo: false
+cache:
+  - bundler
+  - apt
+    addons:
+      apt:
+        packages:
