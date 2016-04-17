@@ -24,3 +24,10 @@ Lucy is delivered with some tests, you can run them by executing `bundle exec cu
 
 ## contribute
 
+
+
+# Current functions 
+
+`ruby lucy.rb [time|date]` will display a date time string
+
+
