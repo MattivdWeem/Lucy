@@ -17,9 +17,13 @@ def display_date
   puts `date`
 end
 
+def magic
+  puts 'i am doing magic'
+end
 
 @tasks = Task.new
 
 @tasks.register ['time','date'], 'display_date'
 @tasks.register ['break'], 'break_lucy'
+@tasks.register [/magic/], 'magic'
 
